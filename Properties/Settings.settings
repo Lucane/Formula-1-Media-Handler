@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Formula_1_Media_Handler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TvdbURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://thetvdb.com/series/formula-1/allseasons/official</Value>
+    </Setting>
+    <Setting Name="LastUpdate" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">1656889656</Value>
+    </Setting>
+    <Setting Name="UpdateInterval" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2592000</Value>
+    </Setting>
+    <Setting Name="Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Downloads\_rss\F1</Value>
+    </Setting>
+    <Setting Name="Destination" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Media\TV Shows\Formula 1</Value>
+    </Setting>
+    <Setting Name="FirstTimeSetup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="QBWebURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1:34265/</Value>
+    </Setting>
+    <Setting Name="QBLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Avalerion</Value>
+    </Setting>
+    <Setting Name="QBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">qb2#bfT@09</Value>
+    </Setting>
+    <Setting Name="TimerCheckMonitored" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">43200000</Value>
+    </Setting>
+    <Setting Name="TimerCheckTorrent" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">300000</Value>
+    </Setting>
+    <Setting Name="Cron_CheckMonitored_Job" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0 0 10 1/1 * ? *</Value>
+    </Setting>
+    <Setting Name="Cron_CheckTorrents_Job" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0 0/1 * 1/1 * ? *</Value>
+    </Setting>
+    <Setting Name="Cron_MetadataUpdate_Job" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0 0 14 5 1/1 ? *</Value>
+    </Setting>
+    <Setting Name="Cron_CheckMonitored_LastRun" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Cron_CheckTorrents_LastRun" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Cron_MetadataUpdate_LastRun" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
