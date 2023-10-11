@@ -1,7 +1,7 @@
 ## Description
 
 A console application for automatically downloading and managing media files for Formula 1 races.
-The application designed to be run as a Windows Service in order to be as lightweight as possible.
+The application is designed to be run as a Windows service in order to be as lightweight and reliable as possible.
 The console interface is mainly used for setup and customization.
 
 Formula 1 torrent files are notoriously unreliable in their naming convention and quality,
