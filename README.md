@@ -12,7 +12,7 @@ It was initially meant to be used in conjunction with [Plex](https://www.plex.tv
 
 ## Implementation
 
-The application periodically checks if any races are missing and if so, searches and downloads the torrent through the qBittorrent WebUI API.
+The application periodically checks if any races are missing and if so, searches and downloads the torrent through the [qBittorrent WebUI API](https://github.com/qbittorrent/qBittorrent/wiki/WebUI-API-(qBittorrent-4.1)).
 
 After that the application renames and imports the downloaded files to the specified media folder and removes any remnant torrent files.
 Renaming is done using the season and episode metadata from [TheTVDB](https://thetvdb.com/series/formula-1).
