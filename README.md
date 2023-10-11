@@ -22,8 +22,8 @@ For example, one of those checks involves the use of the [Levenshtein distance](
 
 ## Console view
 
-![Screenshot 2023-10-11 154847](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/c7d090c1-2d69-46cc-a5a8-5f01871d561c)
+![Screenshot 2023-10-11 154847](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/9296dd21-34e9-4999-840c-54b0f353be5f)
 
-![Screenshot 2023-10-11 155044](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/a5649c99-e6f3-4cd7-bfa4-6e05229f62c8)
+![Screenshot 2023-10-11 155044](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/3c1ebfa2-56c5-4c31-9ebb-10e4ce1ba6cd)
 
-![Screenshot 2023-10-11 155208](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/65c4343c-4379-417c-ab60-1aff33717a01)
+![Screenshot 2023-10-11 155208](https://github.com/Lucane/Formula-1-Media-Handler/assets/7999446/6d8caef6-34f8-432b-8129-80f997cee626)
